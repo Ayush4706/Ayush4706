@@ -1,6 +1,6 @@
-- 👋 Hi, Myself Ayush Kumar, Computer Science undergraduate.
-- 👀 I’m interested in Web Development and 
-- 🌱 I’m currently learning Django for backend development
+- 👋 Hi,I am Ayush Kumar, Computer Science graduate.
+- 👀 I’m interested in backend 
+- 🌱 I’m currently learning Django for backend and react js for frontend. 
 - 📫 Contact: ayush.gk4706@gmail.com
 
 <!---
