@@ -1,6 +1,6 @@
 - 👋 Hi,I am Ayush Kumar, Computer Science graduate.
-- 👀 I’m interested in backend 
-- 🌱 I’m currently learning Django for backend and react js for frontend. 
+- 👀 I’m interested in Fullstack devlopement
+- 🌱 I’m currently learning springboot for backend and react js for frontend also interested in MERN Stack. 
 - 📫 Contact: ayush.gk4706@gmail.com
 
 <!---
